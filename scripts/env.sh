@@ -15,7 +15,7 @@
     ln -s /usr/local/python3.6/bin/python3.6 /usr/bin/python3
     ln -s /usr/local/python3.6/bin/pip3 /usr/bin/pip3
 
-    sudo pip3 --upgrade pip
+    sudo pip3 install --upgrade pip
     sudo pip3 install virtualenv
 
 3. machine learning env install 
